@@ -1,0 +1,26 @@
+body {
+    color: #250fb1; 
+    background-color: #f4f4f4; 
+    background-image: url('ruta/de/tu/imagen.jpg'); 
+    background-size: cover;
+}
+p {
+    font-size: 16px; 
+}
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+h1, h2, h3 {
+    text-decoration: underline;
+}
+
+img {
+    width: 300px; 
+    height: auto; 
+}
+
+
